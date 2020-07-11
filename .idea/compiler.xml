@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SpringbootApp" />
+        <module name="SpringBootTemplate" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="SpringbootApp" target="1.8" />
+      <module name="SpringBootTemplate" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
