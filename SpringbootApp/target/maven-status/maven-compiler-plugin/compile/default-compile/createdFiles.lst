@@ -1,2 +1,9 @@
-springboot\MainApp.class
-springboot\controller\mainController.class
+springboot/dao/MyDao2.class
+springboot/controller/mainController.class
+springboot/auto/MyInvokeHandler.class
+springboot/MainApp.class
+springboot/auto/Config.class
+springboot/dao/MyDao.class
+springboot/auto/MyRegister.class
+springboot/auto/MyFactoryBean.class
+springboot/dao/MyDao3.class
